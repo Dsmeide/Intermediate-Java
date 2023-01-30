@@ -1,0 +1,10 @@
+package com.chop;
+
+public class KataChop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
